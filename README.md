@@ -377,4 +377,5 @@ void framebuffer_size_callback(GLFWwindow* window, int width, int height)
 
 ![qiyvUd](https://raw.githubusercontent.com/geekdanny/images/master/blog/qiyvUd.png)
 
-项目代码：
+项目代码：https://github.com/geekdanny/LearnOpenGL/tree/main/OpenglDemo
+
